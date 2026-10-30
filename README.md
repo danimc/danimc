@@ -1,25 +1,15 @@
-# Hi there! I'm Daniel Mora 👋
+# Daniel Mora
 
-I'm a **Senior Software Engineer** and **Tech Lead** specializing in **JavaScript**, **PHP**, and **.NET**. With a strong focus on best practices and scalable solutions, I strive to deliver high-quality code and lead teams to achieve outstanding results. This GitHub space highlights some of the projects and tools I work with, as well as my continuous journey in technology and improvement.
+Senior full stack engineer in Guadalajara, Mexico (UTC−6). Eleven years building web apps, APIs, iOS and Android apps, and lately the infrastructure AI agents run on. For four years I led a cross functional team of about 15.
 
----
+Open to senior full stack or tech lead roles, remote or with relocation.
 
-## 🛠 Skills & Expertise
+**Languages:** TypeScript · Python · JavaScript · PHP · Go · Rust · C# / .NET
+**Frontend and mobile:** React · Next.js · React Native · Expo · Tailwind
+**Backend and data:** Node.js · NestJS · FastAPI · PostgreSQL · Redis · Kafka
+**Cloud and delivery:** GCP · AWS · Kubernetes · Docker · Terraform · GitHub Actions
+**AI:** LLM agents (Claude Agent SDK) · NVIDIA Triton
 
-- **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express, PHP (Laravel, Symfony), .NET (ASP.NET Core), REST APIs
-- **DevOps & Tools:** Docker, GitHub Actions, CI/CD, Jenkins, AWS, Azure
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
-- **Other Expertise:** Software architecture, scalable applications, code quality and reviews, best practices
+Most of my work lives in private repositories. What is public here is mostly exercises and experiments.
 
----
-<!--
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=danimc&show_icons=true&theme=radical)
-
----
-
--->
-
-Thank you for visiting my profile! I'm always open to connecting with fellow developers, exchanging ideas, and exploring new opportunities in software engineering and tech leadership.
+daniel.k310a@gmail.com · [LinkedIn](https://www.linkedin.com/in/dany-mc/) · Portfolio: danimc.is-a.dev (coming soon)
